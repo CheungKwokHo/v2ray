@@ -17,4 +17,3 @@ _try_enable_bbr() {
 		enable_bbr=true
 	fi
 }
-

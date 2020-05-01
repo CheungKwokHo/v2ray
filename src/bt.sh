@@ -21,7 +21,7 @@ _ban_bt_main() {
 			1)
 				if [[ $ban_bt ]]; then
 					echo
-					echo -e "当前 BT 屏蔽状态: $_info"
+					echo -e " 大胸弟...难不成你没有看到 (当前 BT 屏蔽状态: $_info) 这个帅帅的提示么.....还开启个鸡鸡哦"
 					echo
 				else
 					echo
@@ -35,7 +35,7 @@ _ban_bt_main() {
 					config
 					echo
 					echo
-					echo -e "$green  BT 屏蔽已开启...如果出现异常..关闭$none"
+					echo -e "$green  BT 屏蔽已开启...如果出现异常..那就关闭它咯$none"
 					echo
 				fi
 				break
@@ -53,11 +53,11 @@ _ban_bt_main() {
 					config
 					echo
 					echo
-					echo -e "$red  BT 屏蔽已关闭$none"
+					echo -e "$red  BT 屏蔽已关闭...不过你也可以随时重新开启 ...只要你喜欢$none"
 					echo
 				else
 					echo
-					echo -e " 当前 BT 屏蔽状态: $_info"
+					echo -e " 大胸弟...难不成你没有看到 (当前 BT 屏蔽状态: $_info) 这个帅帅的提示么.....还关闭个鸡鸡哦"
 					echo
 				fi
 				break
@@ -69,3 +69,15 @@ _ban_bt_main() {
 		fi
 	done
 }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
